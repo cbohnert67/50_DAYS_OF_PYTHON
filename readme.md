@@ -1,6 +1,6 @@
 # 50 Days of Python
 
-83 challenges tackled in 4 hours with Github Copilot.
+83 challenges tackled in 4 hours with Github Copilot instead of 40!
 
 If I were alone on the task, ie. without using Github Copilot, I would say I would have needed around half an hour per challenge. 
 
@@ -10,5 +10,5 @@ A quick back of the envelop calculation is simple to do:
 
 So that the increase in time is nearly 1000 %.
 
-What a considerable gain !Thank you LLMs !
+What a considerable gain! Thank you LLMs!
 
