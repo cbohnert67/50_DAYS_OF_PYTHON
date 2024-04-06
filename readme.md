@@ -6,11 +6,9 @@ If I were alone on the task, ie. without using Github Copilot, I would say I wou
 
 A quick back of the envelop calculation is simple to do:
 
-$\frac{1}{2} \text{ hours par challenge } \times 83 challenges \approx 40 \text{ hours }
+0.5 hours per challenge X 83 challenges is about 40 hours.
 
-So that the increase in time is nearly $1000 %$ !
+So that the increase in time is nearly 1000%.
 
-What a considerable gain !
-
-Thank you LLM !
+What a considerable gain !Thank you LLMs !
 
