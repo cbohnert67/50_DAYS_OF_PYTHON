@@ -8,7 +8,7 @@ A quick back of the envelop calculation is simple to do:
 
 0.5 hours per challenge X 83 challenges is about 40 hours.
 
-So that the increase in time is nearly 1000%.
+So that the increase in time is nearly 1000 %.
 
 What a considerable gain !Thank you LLMs !
 
