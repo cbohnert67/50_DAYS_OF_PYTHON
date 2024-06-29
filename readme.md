@@ -12,7 +12,7 @@ The recipe?
 
 Take a book like '50 days of Python. A challenge a day'. 
 
-<p align="center"><img src="50_days_python.png" height="200" width="90" /></p>
+<p align="center"><img src="50_days_python.png" height="250" width="190" /></p>
 
 Get comfortable in front of your computer, warm up the TAB key and let your Github Copilot assistant do the work! 😅
 
