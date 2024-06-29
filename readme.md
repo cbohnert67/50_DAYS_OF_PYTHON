@@ -10,7 +10,11 @@ It's a little experiment to do at home. 😅
 
 The recipe?
 
-Take a book like '50 days of Python. A challenge a day'. Get comfortable in front of your computer, warm up the TAB key and let your Github Copilot assistant do the work! 😅
+Take a book like '50 days of Python. A challenge a day'. 
+
+<p align="center"><img src="50_days_python.png"/></p>
+
+Get comfortable in front of your computer, warm up the TAB key and let your Github Copilot assistant do the work! 😅
 
 Because yes! Github Copilot coded for me the 83 solution functions of the 83 challenges in the book.
 
