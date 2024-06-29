@@ -1,4 +1,4 @@
-# 50 Days of Python
+# 50 Days of Python in 4 hours
 
 83 challenges tackled in 4 hours with Github Copilot instead of 40!
 
